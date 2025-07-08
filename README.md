@@ -1,3 +1,4 @@
 # ASP Email Template
 
-Copy the contents of `index.html` and replace relative links with static links before you paste it in your email client.
+Copy the contents of `template.html` and paste it in your email client's template editor.
+
